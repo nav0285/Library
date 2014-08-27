@@ -1,0 +1,8 @@
+1. Install any IDE for Java. (NetBeans)
+2. Install mysql.
+3. Open NetBeans and import the project.
+4. Download mysql-connector-java-5.1.18-bin.jar and rs2xml.jar.
+    Add the above jar files into your project.
+5. Open mysql and create a library database and create all the 10 tables. 
+   Insert sample data.
+6. Run the application in NetBeans and enjoy the application. To create admin, the key is 12345.
